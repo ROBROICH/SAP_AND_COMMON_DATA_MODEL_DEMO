@@ -22,12 +22,14 @@ In practice this approach could be used for rapid prototyping using SAP S/4HANA 
 The conversion and data-movement will be implemented using Power BI Premium Data-Flows connected to an Azure Data Lake Gen2.
 In S/4HANA analytical data models are described with CDS-view, based on SAP HANA tables, and provide option the option to export SAP-data leveraging open interfaces like OData. 
 
+![Architecture](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/SCENARIO_ARCHITECTURE.png)
+
 This series of blogs from Simon Kranig are an excellent introduction to CDS based data extraction: [Link](https://blogs.sap.com/2019/12/13/cds-based-data-extraction-part-i-overview/)
 
 In addition to Simons Blog I wrote a short introduction how to enable OData based extraction using CDS view:
 [Link](https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT)
 
-In this scenairo the S/4HANA CDS view for extracting the cash flow was selected. This CDS view joins multiple tables to provide the cash-flow for data extraction:
+In this scenario the S/4HANA CDS view for extracting the cash flow was selected. This CDS view joins multiple tables or CDS-view in order to provide the S4/HANA cash-flow for data extraction:
 ![Cash-Flow](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/CDS_VIEW_CASHFLOW.png)
 
 
