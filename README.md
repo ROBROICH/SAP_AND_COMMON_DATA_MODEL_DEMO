@@ -28,7 +28,7 @@ In addition to Simons Blog I wrote a short introduction how to enable OData base
 [Link](https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT)
 
 In this scenairo the S/4HANA CDS view for extracting the cash flow was selected. This CDS view joins multiple tables to provide the cash-flow for data extraction:
-![Cash-Flow](/blob/master/CDS_VIEW_CASHFLOW.png)
+![Cash-Flow](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/CDS_VIEW_CASHFLOW.png)
 
 
 
