@@ -10,7 +10,7 @@ Please find an example for a SAP tables without metadata description here: [BSEG
 
 Frequently in Azure Big Data analytics scenarios these SAP specific data models play in important role in the overall analytical data-model, therefore this demo provides an efficient method the convert SAP S/4HANA metadata models to CDM models. 
 
-This unique feature of the ADL Gen2 supports Common Data Model(CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI or Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key aspects to successfully implement new innovative use-cases. [Source](https://docs.microsoft.com/en-us/common-data-model/data-lake)
+ADL Gen2 supports the Common Data Model(CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI or Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key aspects to successfully implement new innovative use-cases. [Source](https://docs.microsoft.com/en-us/common-data-model/data-lake)
 
 Like the SAP S/4HANA Core Data Services(CDS) views or SAP BW/4HANA business content, the Microsoft Common Data Model (CDM) provides semantically rich descriptions about datasets stored in the Azure Data Lake.
 
@@ -22,10 +22,13 @@ In practice this approach could be used for rapid prototyping using SAP S/4HANA 
 The conversion and data-movement will be implemented using Power BI Premium Data-Flows connected to an Azure Data Lake Gen2.
 In S/4HANA analytical data models are described with CDS-view, based on SAP HANA tables, and provide option the option to export SAP-data leveraging open interfaces like OData. 
 
-This series of blogs from Simon Kranig are an excellent introduction to CDS based data extraction. [Link](https://blogs.sap.com/2019/12/13/cds-based-data-extraction-part-i-overview/)
+This series of blogs from Simon Kranig are an excellent introduction to CDS based data extraction: [Link](https://blogs.sap.com/2019/12/13/cds-based-data-extraction-part-i-overview/)
 
-In addition to Simons Blog I wrote a short introduction how to enable OData based extraction using CDS view. 
+In addition to Simons Blog I wrote a short introduction how to enable OData based extraction using CDS view:
 [Link](https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT)
+
+In this scenairo the S/4HANA CDS view for extracting the cash flow was selected. This CDS view joins multiple tables to provide the cash-flow for data extraction:
+![Cash-Flow](//blob/master/CDS_VIEW_CASHFLOW.png)
 
 
 
