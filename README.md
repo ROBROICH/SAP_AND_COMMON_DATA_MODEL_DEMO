@@ -51,13 +51,13 @@ To implement this prototype, the following prerequisites must be implemented:
 In this  example a S/4HANA system running on Azure was used to implement the prototype.
 To establish the connectivity between the S/4HANA system and the PBI dataflow the installation of the on prem data gateway is required. 
 
-After the successful installation of the data gateway, following steps are required to consume the OData service:
+After the successful installation of the data gateway, following steps are required to consume the OData service usinh PBI DataFlow:
 
 ### 1.1.	Create a new PBI DataFlow 
 
 Introduction PBI Dataflow: [Link](https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use)
 
-[PBIDATAFLOW](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_CREATE_DATA_FLOW.png)
+![PBIDATAFLOW](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_CREATE_DATA_FLOW.png)
 
 
 
