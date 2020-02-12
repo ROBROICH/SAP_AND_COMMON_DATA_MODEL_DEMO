@@ -53,25 +53,25 @@ To establish the connectivity between the S/4HANA system and the PBI dataflow th
 
 After the successful installation of the data gateway, following steps are required to consume the OData service usinh PBI DataFlow:
 
-### 1. Create a new PBI DataFlow 
+#### 1. Create a new PBI DataFlow 
 
 Introduction for creating PBI Dataflows: [Link](https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use)
 
 ![PBIDATAFLOW](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_CREATE_DATA_FLOW.png)
 
-### 2. Select "Define new entities"
+#### 2. Select "Define new entities"
 
 ![PBISCREATENEWENTITY](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_CREATE_DATA_NEW_ENTITY.png)
 
-### 3. Select OData as data source 
+#### 3. Select OData as data source 
 
 ![PBISCREATENEWENTITY](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_SELECT_ODATA.png)
 
-### 4. Enter the URL of the S/4 ODP-OData service and select the On-Premise data gateway
+#### 4. Enter the URL of the S/4 ODP-OData service and select the On-Premise data gateway
 
 ![PBIMAINTAINODATA](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_MAINTAIN_ODATA.png)
 
-### 5. Select the full load URL
+#### 5. Select the full load URL
 
 ![PBIODATAPREVIEWSERVIVCE](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_ODATA_PREVIEWS_SERVICE.png)
 
