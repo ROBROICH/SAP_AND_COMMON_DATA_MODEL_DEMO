@@ -1,14 +1,14 @@
-# SAP S/4HANA and Microsoft Common Data Model integration.
-This demo describes the basic integration between S/4HANA and the Microsoft Common Data Model (CDM)
+# Conversion of SAP S/4HANA Core Data Services to the Microsoft Common Data Model.
+This demo describes the basic integration between S/4HANA semantics and the Microsoft Common Data Model (CDM)
 
 
-## From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 
+## From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 (ADL Gen2) 
 When utilizing SAP S/4HANA or SAP ECC as data-source for Data-Lake implementations, the complexity of the relational SAP data-model and corresponding SAP tables is a well-known challenge. 
 For data extraction based on SAP ABAP tables, deep SAP domain expertise is required to design specfic data-models which fullfill the requirements of AI/ML or genral analytical scenarios. 
 
 Please find an example for a SAP tables without metadata description here: [BSEG](https://www.se80.co.uk/saptables/b/bseg/bseg.htm)
 
-Frequently in Azure Big Data analytics scenarios these SAP specific data models and semantics play in important role in the overall analytical data-model, therefore this demo provides an efficient method the convert SAP S/4HANA metadata models to CDM models. 
+Frequently in Azure Big Data analytics scenarios these SAP specific data models and semantics play in important role in the overall analytical data-model, therefore this demo provides an efficient method the convert SAP S/4HANA semantics to CDM models. 
 
 ADL Gen2 supports the Common Data Model(CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI or Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key aspects to successfully implement new innovative use-cases. [Source](https://docs.microsoft.com/en-us/common-data-model/data-lake)
 
