@@ -42,10 +42,20 @@ To implement this prototype, the following prerequisites must be implemented:
   
  * The only required modification is to expose the CDS-view as OData service. Further details how this can be achieved and a description how to implement the CDC / delta-logic can be found here: https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT
 
-*	The PBI On-Premise Gateway was used to connect the OData service with the PBI Dataflow 
+*	The PBI On-Premise Gateway was used to connect the OData service with the PBI Dataflow. The installation guide can be found here:![Link](https://docs.microsoft.com/en-us/power-bi/service-gateway-onprem)
 
 
 
+
+## Connecting the PBI dataflow to S/4HANA
+In this  example a S/4HANA system running on Azure was used to implement the prototype.
+To establish the connectivity between the S/4HANA system and the PBI dataflow the installation of the on prem data gateway is required. 
+
+After the successful installation of the data gateway, following steps are required to consume the OData service:
+
+### 1.1.	Create a new PBI DataFlow 
+
+Introduction PBI Dataflow: ![Link](https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use)
 
 
 
