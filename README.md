@@ -83,10 +83,10 @@ Introduction for creating PBI Dataflows: [Link](https://docs.microsoft.com/en-us
 
 ![PBIODATAPREVIEWSERVIVCE](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_ODATA_PREVIEWS_SERVICE.png)
 
-#### 7. Select the full load URL
-If everything is working, e.g. the data preview shown. Execute the data flow once.
+#### 8. Refresh the PBI Dataflow 
+If everything is working, e.g. the data preview shown. Refresh the data flow once.
 
-
+![PBIREFRESHDATAFLOW](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_REFRESH_DATA_FLOW.png)
 
 
 
