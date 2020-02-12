@@ -89,6 +89,22 @@ If everything is working, e.g. the data preview shown. Refresh the data flow onc
 ![PBIREFRESHDATAFLOW](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_REFRESH_DATA_FLOW.png)
 
 
+## S/4HANA stored on Azure Data Lake Gen2
+
+After the PBI Dataflow is executed, the S/4HANA data is stored in the Azure Data-Lake Gen2. 
+The export consists of the following artifact:
+
+
+### Folder structure: 
+
+
+### Content Model JSON:
+
+
+### Content CSV file:
+
+
+
 
 
 
