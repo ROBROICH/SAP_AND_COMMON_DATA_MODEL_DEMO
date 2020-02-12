@@ -75,8 +75,12 @@ Introduction for creating PBI Dataflows: [Link](https://docs.microsoft.com/en-us
 
 ![PBIODATAPREVIEWSERVIVCE](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_ODATA_PREVIEWS_SERVICE.png)
 
+#### 6. If required, apply transformations in PBI Power Query
 
 
+#### 7. Select the full load URL
+
+![PBIODATAPREVIEWSERVIVCE](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_ODATA_PREVIEWS_SERVICE.png)
 
 
 
