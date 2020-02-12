@@ -29,9 +29,18 @@ This series of blogs from Simon Kranig are an excellent introduction to CDS base
 In addition to Simons Blog there is an introduction how to enable OData based extraction using CDS view:
 [Link](https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT)
 
-In this scenario the S/4HANA CDS view for extracting the cash flow was selected. This CDS view joins multiple tables or CDS-view in order to provide the S4/HANA cash-flow for data extraction:
+In this scenario the S/4HANA CDS view for extracting the cash flow was selected. This CDS view joins multiple tables or CDS-view to provide the S4/HANA cash-flow for data extraction:
 ![Cash-Flow](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/CDS_VIEW_CASHFLOW.png)
 
+
+
+##Prerequisites 
+To implement this prototype, the following prerequisites must be implemented:
+*An ABAP based CDS view must be exposed as ODP OData service
+  *	The prerequisite for exposing CDS views as ODP is the CDS-tag data-extraction = true. 
+  *  Zhis is only required modification is to expose the CDS-view as OData service. Further details how this can be achieved and a description how to implement the CDC / delta-logic can be found here: https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT
+
+*	The PBI On-Premise Gateway was used to connect the OData service with the PBI Dataflow 
 
 
 
