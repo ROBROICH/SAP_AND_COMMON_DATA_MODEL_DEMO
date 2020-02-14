@@ -96,12 +96,20 @@ The export consists of the following artifact:
 
 
 ### Folder structure: 
-
+![ADATAEXPLORER](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/ADE_Model_JSON.png)
 
 ### Content Model JSON:
 
+![VSCMODELSJON](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/VSC_MODELJSON.png)
 
-### Content CSV file:
+
+### Snapshot CSV file:
+
+![VSCMODELSJON](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/20200214_ADE_CSV.png)
+
+
+
+
 
 
 
