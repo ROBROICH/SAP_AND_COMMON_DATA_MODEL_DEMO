@@ -107,17 +107,17 @@ Therefore, the next features for this demo scenario will likely be:
 
 ## Additional ressource:
 
-*[The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+* [The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
 
-*[DM and Azure Data Services Integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+* [DM and Azure Data Services Integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
 
-*[Create schema documents for the Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+* [Create schema documents for the Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
  
- *[Create schema documents for the Common Data Model](https://docs.microsoft.com/en-us/common-data-model/creating-schemas)
+* [Create schema documents for the Common Data Model](https://docs.microsoft.com/en-us/common-data-model/creating-schemas)
  
- *[How to add metadata to your Azure Data Lake](https://towardsdatascience.com/how-to-add-metadata-to-your-azure-data-lake-f8ec2022f50)
+* [How to add metadata to your Azure Data Lake](https://towardsdatascience.com/how-to-add-metadata-to-your-azure-data-lake-f8ec2022f50)
  
- *[Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
+* [Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
 
 
 
