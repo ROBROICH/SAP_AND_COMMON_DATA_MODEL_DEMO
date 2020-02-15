@@ -17,7 +17,7 @@ Like the SAP S/4HANA Core Data Services(CDS) views or SAP BW/4HANA business cont
 
 The overall scenarios of this tutorial and prototype is to transform SAP S/4HANA specific metadata and semantics into the CDM-format and to export the data to the ADLS Gen2.  
 In practice this approach could be used for rapid prototyping using SAP S/4HANA as data-source. Productive usage beyond full data loads from is currently not recommended since the implementation of the ODP CDC/Delta API is not available in this demo yet. 
-
+In later stages of the demo the incremenatal refresh feature of PBI could evaluated for this demo. ([PBI Incremental refresh](https://docs.microsoft.com/en-us/power-bi/service-dataflows-incremental-refresh))
 
 The semantic model conversion and data-movement will be implemented using Power BI Premium Dataflows connected to an Azure Data Lake Gen2.
 In S/4HANA analytical data models are described with CDS-view, based on SAP HANA tables, and provide option the option to export SAP-data leveraging open interfaces like OData. 
