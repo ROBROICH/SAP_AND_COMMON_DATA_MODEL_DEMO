@@ -81,14 +81,17 @@ Once the PBI DataFloe is created to the SAP S/4HANA data is ready to be consumed
 ![PBIDATAFLOW1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DATAFLOW_1.png)
 ### Select PBI DataFlow for exporting the S/4HANA Cash-Flow
 ![PBIDATAFLOW1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DATAFLOW_2.png)
-### Create a PBI dashboard for the S/4HANA Cash-Flow data
-![PBIDASHBOARD](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_Dashboard_1.jpg)
 
-### Create a PBI dashboard for the S/4HANA Cash-Flow data and get some Quick Insights 
+
+## Create a PBI dashboard for the S/4HANA Cash-Flow data and get some Quick Insights 
+
+### S/4HANA Cash Flow report in PBI Desktop
 ![PBIDASHBOARD1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DASHBOARD_S4.png)
 
+### S/4HANA Cash Flow report in PBI 
 ![PBIDASHBOARD2](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DASHBOARD_S4.png)
 
+### PBI Quick Insights generated from S/4HANA Cash Flow 
 ![QUICKINISHGTS](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_QUICKINSIGHTS.png)
 
 
