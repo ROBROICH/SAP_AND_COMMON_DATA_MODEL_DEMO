@@ -25,6 +25,7 @@ In S/4HANA analytical data models are described with CDS-view, based on SAP HANA
 ![Architecture](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/SCENARIO_ARCHITECTURE.png)
 
 This series of blogs from Simon Kranig are an excellent introduction to CDS based data extraction: [Link](https://blogs.sap.com/2019/12/13/cds-based-data-extraction-part-i-overview/)
+
 In addition to Simons Blog there is an introduction how to enable OData based extraction using CDS view:
 [Link](https://github.com/ROBROICH/SAP_ODP_ODATA_CLIENT)
 
