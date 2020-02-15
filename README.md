@@ -107,12 +107,27 @@ The export consists of the following artifact:
 
 ![VSCMODELSJON](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/20200214_ADE_CSV.png)
 
+From here the Model.json file is prepared to be consumed from PowerBI oder Azure Databricks
 
 
+## Connecting PowerBI Desktop to the PowerBI-Dataflow
+
+Once the PBI DataFloe is created to the SAP S/4HANA data is ready to be consumed in PowerBI
+
+## Connecting PowerBI Desktop to the PowerBI-Dataflow
+
+### Select the PBI DataFlow as data-source 
+
+![PBIDATAFLOW1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DATAFLOW1.png)
 
 
+### Select PBI DataFlow for exporting the S/4HANA Cash-Flow
+
+![PBIDATAFLOW1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DATAFLOW1.png)
 
 
+### Create a PBI dashboard for the S/4HANA Cash-Flow data
+![PBIDASHBOARD](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_Dashboard.jpg)
 
 
 
