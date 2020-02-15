@@ -114,8 +114,6 @@ From here the Model.json file is prepared to be consumed from PowerBI oder Azure
 
 Once the PBI DataFloe is created to the SAP S/4HANA data is ready to be consumed in PowerBI
 
-## Connecting PowerBI Desktop to the PowerBI-Dataflow
-
 ### Select the PBI DataFlow as data-source 
 
 ![PBIDATAFLOW1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DATAFLOW_1.png)
