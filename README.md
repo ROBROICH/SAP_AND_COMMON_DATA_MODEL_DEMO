@@ -1,7 +1,7 @@
-# Conversion of SAP S/4HANA Core Data Services to the Microsoft Common Data Model.
+## From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 (ADLS Gen2) 
 This demo describes the basic integration between S/4HANA Core Data Services Views (CDS Views) and the Microsoft Common Data Model (CDM)
 
-## From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 (ADLS Gen2) 
+# Demo
 When utilizing SAP S/4HANA or SAP ECC as data-source for modern Data-Lake implementations, the complexity of the relational SAP data-model and corresponding SAP tables is a well-known challenge. 
 For data extraction based on SAP ABAP tables, deep SAP domain expertise is required to design specific data-models which fulfill the requirements of AI/ML or general analytical scenarios. 
 
