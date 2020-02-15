@@ -6,6 +6,7 @@ When utilizing SAP S/4HANA or SAP ECC as data-source for modern Data-Lake implem
 For data extraction based on SAP ABAP tables, deep SAP domain expertise is required to design specific data-models which fulfill the requirements of AI/ML or general analytical scenarios. 
 
 Please find an example for SAP tables without metadata description here: [BSEG](https://www.se80.co.uk/saptables/b/bseg/bseg.htm)
+
 Frequently in Azure Big Data analytics scenarios these SAP specific data models and semantics play in important role in the overall analytical data-models, hence this demo provides an efficient method the convert SAP S/4HANA CDS semantics to CDM models. 
 
 ADLS Gen2 supports the Common Data Model (CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI , Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key success factors to implement new innovative use-cases. [Source](https://docs.microsoft.com/en-us/common-data-model/data-lake)
