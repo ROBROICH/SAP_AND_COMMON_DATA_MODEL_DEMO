@@ -9,7 +9,7 @@ Please find an example for SAP tables without metadata description here: [BSEG](
 
 Frequently in Azure Big Data analytics scenarios these SAP specific data models and semantics play in important role in the overall analytical data-models, hence this demo provides an efficient method the convert SAP S/4HANA CDS semantics to CDM models. 
 
-ADLS Gen2 supports the Common Data Model (CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI , Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key success factors to implement new innovative use-cases. [Source](https://docs.microsoft.com/en-us/common-data-model/data-lake)
+ADLS Gen2 supports the Common Data Model (CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI , Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key success factors to implement new innovative use-cases. ([Source](https://docs.microsoft.com/en-us/common-data-model/data-lake))
 
 Like the SAP S/4HANA Core Data Services(CDS) views or SAP BW/4HANA business content, the Microsoft Common Data Model (CDM) provides semantically rich descriptions about datasets stored in the Azure Data Lake.
 
