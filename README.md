@@ -95,6 +95,31 @@ Once the PBI DataFlow is created to the SAP S/4HANA data is ready to be consumed
 ![QUICKINISHGTS](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_QUICKINSIGHTS.png)
 
 
+## Summary and outlook 
+This demo demonstrated the capability of PowerBI to consume S/4HANA semantics and data by utilizing S/4HANA CDS views based on the open interface OData. 
+In addition to the S/4AHANA semantics, the Cash-Flow data model and the readable columns names, are available on the ADL Gen2 as CDM model and could be consumed by additional tools like Azure Databricks. 
+While the preparation of the S/4HANA CDS as OData service is a change request for the IT department, the later consumption of the OData service with PBI does not require the IT department and can be done by power users. 
+As mentioned earlier, currently only full data-loads are possible with this demo scenario and therefore this demo is not yet ready for data-warehousing like reoccurring data-loads. 
+
+Therefore, the next features for this demo scenario will likely be:
+•	Consuming the CDM model and data using Azure Databricks
+•	Implement the reoccurring data loads  
+
+## Additional ressource:
+
+*[The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+
+*[DM and Azure Data Services Integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+
+*[Create schema documents for the Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+ 
+ *[Create schema documents for the Common Data Model](https://docs.microsoft.com/en-us/common-data-model/creating-schemas)
+ 
+ *[How to add metadata to your Azure Data Lake](https://towardsdatascience.com/how-to-add-metadata-to-your-azure-data-lake-f8ec2022f50)
+ 
+ *[Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
+
+
 
 
 
