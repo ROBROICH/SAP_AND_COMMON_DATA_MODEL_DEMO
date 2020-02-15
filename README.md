@@ -76,7 +76,7 @@ The model JSON describes the column name and the datatype.
 ![VSCMODELSJON](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/ADE_CSV.png)
 From here the Model.json file is prepared to be consumed from PowerBI or Azure Databricks
 ## Connecting PowerBI Desktop to the PowerBI-Dataflow
-Once the PBI DataFloe is created to the SAP S/4HANA data is ready to be consumed in PowerBI
+Once the PBI DataFlow is created to the SAP S/4HANA data is ready to be consumed in PowerBI
 ### Select the PBI DataFlow as data-source 
 ![PBIDATAFLOW1](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/PBI_DESKTOP_DATAFLOW_1.png)
 ### Select PBI DataFlow for exporting the S/4HANA Cash-Flow
