@@ -1,7 +1,7 @@
 # From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 (ADLS Gen2) 
 This demo describes the basic integration between S/4HANA Core Data Services Views (CDS Views) and the Microsoft Common Data Model (CDM)
 
-These ressources can be used as introduction to the Common Data Model and the Azure Data Services integration:
+These resources can be used as introduction to the Common Data Model and the Azure Data Services integration:
 
 * [The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
 
@@ -26,7 +26,7 @@ Like the SAP S/4HANA Core Data Services(CDS) views or SAP BW/4HANA business cont
 
 The overall scenarios of this tutorial and prototype is to transform SAP S/4HANA specific metadata and semantics into the CDM-format and to export the data to the ADLS Gen2.  
 In practice this approach could be used for rapid prototyping using SAP S/4HANA as data-source. Productive usage beyond full data loads from is currently not recommended since the implementation of the ODP CDC/Delta API is not available in this demo yet. 
-In later stages of the demo the incremenatal refresh feature of PBI could evaluated for this demo. ([PBI Incremental refresh](https://docs.microsoft.com/en-us/power-bi/service-dataflows-incremental-refresh))
+In later stages of the demo the incremental refresh feature of PBI could evaluated for this demo. ([PBI Incremental refresh](https://docs.microsoft.com/en-us/power-bi/service-dataflows-incremental-refresh))
 
 The semantic model conversion and data-movement will be implemented using Power BI Premium Dataflows connected to an Azure Data Lake Gen2.
 In S/4HANA analytical data models are described with CDS-view, based on SAP HANA tables, and provide option the option to export SAP-data leveraging open interfaces like OData. 
@@ -114,7 +114,7 @@ Therefore, the next features for this demo scenario will likely be:
 •	Consuming the CDM model and data using Azure Databricks
 •	Implement the reoccurring data loads  
 
-##  Ressource collection:
+##  Resource collection:
 
 * [The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
 
@@ -127,26 +127,6 @@ Therefore, the next features for this demo scenario will likely be:
 * [How to add metadata to your Azure Data Lake](https://towardsdatascience.com/how-to-add-metadata-to-your-azure-data-lake-f8ec2022f50)
  
 * [Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
