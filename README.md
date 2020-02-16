@@ -1,14 +1,13 @@
 # From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 (ADLS Gen2) 
 This demo describes the basic integration between S/4HANA Core Data Services Views (CDS Views) and the Microsoft Common Data Model (CDM)
 
-These ressources give a good introduction to the Common Data Model and the Azure Data Services integration:
+These ressources can be used as introduction to the Common Data Model and the Azure Data Services integration:
 
 * [The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
 
 * [CDM and Azure Data Services Integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
 
 * [Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
-
 
 
 ## Introduction and motivation
