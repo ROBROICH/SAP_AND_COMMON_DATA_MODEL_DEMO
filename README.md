@@ -14,7 +14,7 @@ These ressources can be used as introduction to the Common Data Model and the Az
 When utilizing SAP S/4HANA or SAP ECC as data-source for modern Data-Lake implementations, the complexity of the relational SAP data-model and corresponding SAP tables is a well-known challenge. 
 For data extraction based on SAP ABAP tables, deep SAP domain expertise is required to design specific data-models which fulfill the requirements of AI/ML or general analytical scenarios. 
 
-Please find an example for SAP tables without metadata description here: [BSEG](https://www.se80.co.uk/saptables/b/bseg/bseg.htm)
+This is the SAP Accounting Document Segment table as an example: [BSEG](https://www.se80.co.uk/saptables/b/bseg/bseg.htm)
 
 Frequently in Azure Big Data analytics scenarios these SAP specific data models and semantics play in important role in the overall analytical data-models, hence this demo provides an efficient method the convert SAP S/4HANA CDS semantics to CDM models. 
 
