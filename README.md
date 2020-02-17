@@ -111,8 +111,9 @@ While the preparation of the S/4HANA CDS as OData service is a change request fo
 As mentioned earlier, currently only full data-loads are possible with this demo scenario and therefore this demo is not yet ready for data-warehousing like reoccurring data-loads. 
 
 Therefore, the next features for this demo scenario will likely be:
-•	Consuming the CDM model and data using Azure Databricks
-•	Implement the reoccurring data loads  
+
+*	Consuming the CDM model and data using Azure Databricks
+* Implement the reoccurring data loads  
 
 ##  Resource collection:
 
