@@ -26,7 +26,7 @@ These resources can be used as introduction to the Common Data Model and the Azu
 
 ## Introduction demo scenario and architecture 
 
-The overall scenarios of this tutorial and prototype is to transform SAP S/4HANA specific metadata and semantics into the CDM-format and to export the data to the ADLS Gen2.  
+The overall scenario of this tutorial and prototype is to transform SAP S/4HANA specific metadata and semantics into the CDM-format and to export the data to the ADLS Gen2.  
 In practice this approach could be used for rapid prototyping using SAP S/4HANA as data-source. Productive usage beyond full data loads from is currently not recommended since the implementation of the ODP CDC/Delta API is not available in this demo yet. 
 In later stages of the demo the incremental refresh feature of PBI could evaluated for this demo. ([PBI Incremental refresh](https://docs.microsoft.com/en-us/power-bi/service-dataflows-incremental-refresh))
 
