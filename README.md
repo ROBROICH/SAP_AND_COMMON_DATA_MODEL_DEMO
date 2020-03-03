@@ -1,13 +1,6 @@
 # From SAP S/4HANA Core Data Services (CDS) to the Common Data Model (CDM) on Azure Data Lake Gen2 (ADLS Gen2) 
 This demo describes the basic integration between S/4HANA Core Data Services Views (CDS Views) and the Microsoft Common Data Model (CDM)
 
-These resources can be used as introduction to the Common Data Model and the Azure Data Services integration:
-
-* [The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
-
-* [CDM and Azure Data Services Integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
-
-* [Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
 
 
 ## Introduction and motivation
@@ -21,6 +14,15 @@ Frequently in Azure Big Data analytics scenarios these SAP specific data models 
 ADLS Gen2 supports the Common Data Model (CDM) which enables consistent sharing of metadata between multiple data consumers and producers like PowerBI , Azure Databricks or Azure Data-Factory. Semantic and structural consistency of metadata, in context of Data-Lakes projects, is one of the key success factors to implement new innovative use-cases. ([Source](https://docs.microsoft.com/en-us/common-data-model/data-lake))
 
 Like the SAP S/4HANA Core Data Services(CDS) views or SAP BW/4HANA business content, the Microsoft Common Data Model (CDM) provides semantically rich descriptions about datasets stored in the Azure Data Lake.
+
+
+These resources can be used as introduction to the Common Data Model and the Azure Data Services integration:
+
+* [The Common Data Model](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+
+* [CDM and Azure Data Services Integration](https://github.com/Azure-Samples/cdm-azure-data-services-integration/blob/master/Tutorial/CDM-Azure-Data-Services-Integration-Tutorial.md)
+
+* [Microsoft Power BI: Common Data Model and Azure Data Services - BRK3033](https://www.youtube.com/watch?v=wzbjAkk6m6k)
 
 ## Introduction demo scenario and architecture 
 
