@@ -45,7 +45,8 @@ In this scenario the S/4HANA CDS view for extracting the S/4HANA Cash Flow was s
 
 ## Prerequisites 
 To implement this prototype, the following prerequisites have to be implemented:
-*An ABAP based CDS view must be exposed as ODP OData service
+
+* An ABAP based CDS view must be exposed as ODP OData service
   *	The prerequisite for exposing CDS views as ODP is the CDS-tag data-extraction = true. 
    ![ExtractionTrue](https://github.com/ROBROICH/SAP_AND_COMMON_DATA_MODEL_DEMO/blob/master/CDS_EXTRACTION_TRUE.png)
   
