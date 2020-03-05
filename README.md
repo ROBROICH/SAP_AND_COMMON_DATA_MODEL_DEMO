@@ -110,7 +110,7 @@ Once the PBI DataFlow is created to the SAP S/4HANA data is ready to be consumed
 ## Summary and outlook 
 This demo demonstrated the capability of PowerBI to consume S/4HANA semantics and data by utilizing S/4HANA CDS views in combination with the open interface OData. 
 In addition to the S/4AHANA semantics, the Cash-Flow data model and the readable columns names, are available on the ADL Gen2 as CDM model and could be consumed by additional tools like Azure Databricks. 
-While the preparation of the S/4HANA CDS as OData service is a change request for the IT department, the later consumption of the OData service with PBI does not require the involvement IT department and can be done by power users. 
+While the preparation of the S/4HANA CDS as OData service is a change request for the IT department, the later consumption of the OData service with PBI does not require the involvement of the IT department and can be done by power users. 
 As mentioned earlier, currently only full data-loads are possible with this demo scenario and therefore this demo is not yet ready for data-warehousing like reoccurring data-loads. 
 
 Therefore, the next features for this demo scenario will likely be:
